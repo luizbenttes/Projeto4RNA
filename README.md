@@ -59,7 +59,7 @@ data.sample(3)
 
 
 
-
+```html
 <div>
 <style scoped>
     .dataframe tbody tr th:only-of-type {
@@ -125,7 +125,7 @@ data.sample(3)
   </tbody>
 </table>
 </div>
-
+```
 
 
 
